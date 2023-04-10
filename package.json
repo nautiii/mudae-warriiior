@@ -1,0 +1,30 @@
+{
+  "name": "mudae-warriiior",
+  "version": "1.0.0",
+  "description": "mudae bot",
+  "main": "src/bot.ts",
+  "scripts": {
+    "start": "node src/bot.ts",
+    "dev": "nodemon src/bot.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nautiii/mudae-warriiior.git"
+  },
+  "author": "nautiramisu",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/nautiii/mudae-warriiior/issues"
+  },
+  "homepage": "https://github.com/nautiii/mudae-warriiior#readme",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.13.2",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.38.0",
+    "nodemon": "^2.0.22"
+  }
+}
