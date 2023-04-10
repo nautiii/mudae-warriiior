@@ -1,2 +1,2 @@
-# mudae-warriiior
+# Mudae Warriiior
 mudae bot
